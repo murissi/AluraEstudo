@@ -3,11 +3,25 @@
  <script type="text/javascript">
 
  	document.write("<h1>Hello World</h1>");
+
 	// mundo javascript
  	// document.write("Flavio nasceu em: ",2016 - 39);
- 	// document.write("A media das idades é: ", (20 + 10 + 30)/3)
- 	document.write("Flavio nasceu em " + (2016 - 39) + "<br>")
- 	document.write("Joaquim nasceu em " + (2016 - 20) + "<br>")
- 	document.write("Barney nasceu em ", (2016 - 40))
+ 	// document.write("A media das idades é: ", (20 + 10 + 30)/3);
+    var ano = 2022;
+ 	document.write("Flavio nasceu em " + (ano - 39) + "<br>");
+ 	var ano = 2033;
+ 	document.write("Joaquim nasceu em " + (ano - 20) + "<br>");
+    document.write("Barney nasceu em ", (ano - 41), "<br>");
+
+    var pessoa1 = 39;
+    var pesssoa2 = 20;
+    var pessoa3 = 41;
+
+    var media = (pessoa1 + pesssoa2 + pessoa3) / 3; 
+    document.write("A media das idades é: ", Math.round(media),"<br>");
+
+    var nome = "Flavio";
+    document.write("Idade de " + nome + " é " + pessoa1);
+
 
  </script>

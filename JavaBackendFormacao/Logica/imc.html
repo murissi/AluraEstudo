@@ -1,0 +1,21 @@
+<meta charset="utf-8">
+
+<script type="text/javascript">
+	var pesoFlavio = 73;
+	var alturaFlavio = 1.71;
+	var imcFlavio = pesoFlavio / (alturaFlavio * alturaFlavio);
+	document.write("O imc do Flavio é: ", imcFlavio,"<br>");
+
+	var pesoAmigo = 68;
+	var alturaAmigo = 1.72;
+	var imcAmigo = pesoAmigo / (alturaFlavio * alturaFlavio);
+	document.write("Imc do Amigo é: ", imcFlavio,"<br>");
+
+	function calculaImc(peso, altura) {
+		return peso / (altura * altura);
+	}
+
+	var meuPeso = 86;
+	var minhaAltura = 1.75;
+	document.write("Meu IMC é de: ", calculaImc(meuPeso, minhaAltura));
+</script>
