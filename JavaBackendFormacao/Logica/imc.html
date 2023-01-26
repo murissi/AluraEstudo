@@ -1,21 +1,22 @@
 <meta charset="utf-8">
 
 <script type="text/javascript">
-	var pesoFlavio = 73;
-	var alturaFlavio = 1.71;
-	var imcFlavio = pesoFlavio / (alturaFlavio * alturaFlavio);
-	document.write("O imc do Flavio é: ", imcFlavio,"<br>");
-
-	var pesoAmigo = 68;
-	var alturaAmigo = 1.72;
-	var imcAmigo = pesoAmigo / (alturaFlavio * alturaFlavio);
-	document.write("Imc do Amigo é: ", imcFlavio,"<br>");
-
-	function calculaImc(peso, altura) {
-		return peso / (altura * altura);
+	
+	function pulaLinha() {
+		document.write("<br>");
 	}
 
-	var meuPeso = 86;
-	var minhaAltura = 1.75;
-	document.write("Meu IMC é de: ", calculaImc(meuPeso, minhaAltura));
+	function mostrar(frase) {
+		document.write(frase);
+		pulaLinha();
+	}
+
+	function calculaImc(peso, altura) {
+		return peso / (altura * altura)
+	}
+
+	var imc1 = calculaImc(50, 1.6);
+	var imc2 = calculaImc(45, 1,4);
+	mostrar(imc1 + imc2);
+
 </script>
