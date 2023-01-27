@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+
+<script type="text/javascript">
+	var peso = parseInt(prompt("Peso: "));
+	var altura = prompt("Altura: ");
+	var imcCalculo = Math.round(peso / (altura * altura));
+
+	document.write(imcCalculo,"<br>");
+
+	if (imcCalculo >= 18.5 && imcCalculo <= 35) {
+		document.write("Perfeito");
+
+	} else if(imcCalculo < 18.4) {
+		document.write("Abaixo");
+
+	} else {
+		document.write("Acima");
+	}
+</script>

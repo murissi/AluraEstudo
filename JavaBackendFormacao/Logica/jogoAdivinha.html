@@ -1,0 +1,36 @@
+<meta charset="utf-8">
+
+<script type="text/javascript">
+	function pulaLinha() {
+
+		document.write("<br>");
+		document.write("<br>");
+	}
+
+    function mostra(frase) {
+
+        document.write(frase);
+        pulaLinha();
+	}
+
+	function sorteia(n) {
+		return Math.round(Math.random() * n)
+	}
+
+	var numeroPensado = sorteia(10);
+	var resposta = parseInt(prompt("Chute: "));
+
+	if (resposta == numeroPensado) {
+		mostra("Parabens");
+		mostra(numeroPensado);
+	} else {
+		mostra("Errou");
+		mostra(numeroPensado);
+	}
+
+	if (resposta > numeroPensado) {
+		mostra("Muito grande");
+	} else if (resposta < numeroPensado) {
+		mostra("Muito baixo");
+	}
+</script>

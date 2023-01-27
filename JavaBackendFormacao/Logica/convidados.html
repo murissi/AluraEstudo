@@ -3,6 +3,7 @@
 <script type="text/javascript">
 	function pulaLinha() {
 		document.write("<br>");
+
 	}
 
 	function mostrar(texto) {
@@ -10,10 +11,10 @@
 		pulaLinha();
 	}
 
-	var vitorias = parseInt(prompt("Vitorias"));
-	var empates = parseInt(prompt("Empates"));
+	var convidados = parseInt(prompt("Convidados: "));
+	var vips = parseInt(prompt("VIps: "));
 
-	var pontos = vitorias * 3 + empates;
-	mostrar(pontos);
+	var total = convidados + vips;
 
+	mostrar(total);
 </script>
