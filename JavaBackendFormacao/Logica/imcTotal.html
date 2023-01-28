@@ -1,0 +1,24 @@
+<meta charset="utf-8">
+
+<script type="text/javascript">
+	
+	var familiares = parseInt(prompt("Familiares: "));
+	var totalPeso = 0;
+	var totalAltura = 0;
+	var imcTotal = 0;
+	imcTotal += totalPeso / (totalAltura * totalAltura);
+
+	for (var i = 1; i <= familiares; i++){
+		var peso = parseInt(prompt("Peso: " + i));
+		totalPeso += peso;
+
+		var altura = prompt("Altura: " + i);
+		totalAltura += altura;
+
+
+
+	}
+	document.write(imcTotal);
+
+
+</script>

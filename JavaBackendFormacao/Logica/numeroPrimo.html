@@ -1,0 +1,23 @@
+<meta charset="utf-8">
+
+<script type="text/javascript">
+	
+	var contador = 0;
+
+
+
+	var n = parseInt(prompt("Numero: "));
+
+	for(var i = 1; i <= n; i++) {
+		if (n % i == 0) {
+			contador += 1;
+		}
+	}
+
+	if (contador == 2) {
+		document.write("Numero primo");
+	} else {
+		document.write("!Numero primo");
+	}
+
+</script>
