@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TreinoCarro.iml" filepath="$PROJECT_DIR$/TreinoCarro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treino-bytebank.iml" filepath="$PROJECT_DIR$/treino-bytebank.iml" />
     </modules>
   </component>
 </project>
