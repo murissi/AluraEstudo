@@ -2,7 +2,7 @@ public class Funcionario {
 
     private String nome;
     private String cpf;
-    private double salario;
+    private double salario; // protected publico para os filhos kkkk
 
 
     public double getBonificacao() {
@@ -22,14 +22,14 @@ public class Funcionario {
     }
 
     public String getNome() {
-        return nome;
+        return this.nome;
     }
 
     public String getCpf() {
-        return cpf;
+        return this.cpf;
     }
 
     public double getSalario() {
-        return salario;
+        return this.salario;
     }
 }

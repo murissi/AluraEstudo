@@ -6,7 +6,6 @@ public class FuncionarioTeste {
     private int tipo = 0; // 0 - Funcionario normal, 1 - Gerente
     private int senha;
 
-    public boolean autentica(int )
 
     public double getBonificacao() {
         if (this.tipo == 0) {
