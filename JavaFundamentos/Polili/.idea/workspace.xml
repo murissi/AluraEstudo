@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d6c0999-4d87-4565-9d2c-de93ef514d9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polili.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cascavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolimorfismoTreino/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolimorfismoTreino/src/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolimorfismoTreino/src/Leao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolimorfismoTreino/src/Tigre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/byteBytebank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/ControleBonificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/Design.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/EditorVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/TestaGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/TestaReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byteBytebank/src/paradigma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoMassa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoMassa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoMassa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoMassa/maoMassa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoMassa/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoMassa/src/Corsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoMassa/src/TestaCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treinoPoli/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treinoPoli/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treinoPoli/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treinoPoli/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treinoPoli/src/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treinoPoli/src/Leao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treinoPoli/treinoPoli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolimorfismoTreino/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolimorfismoTreino/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolimorfismoTreino/src/Computador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolimorfismoTreino/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PolimorfismoTreino/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LCvrF74pVD7KTBc5CG1iTBHpWy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d6c0999-4d87-4565-9d2c-de93ef514d9e" name="Changes" comment="" />
+      <created>1675388078707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675388078707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
