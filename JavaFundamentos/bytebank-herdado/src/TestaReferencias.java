@@ -13,9 +13,10 @@ public class TestaReferencias {
         Gerente g3 = new Funcionario(); Não funciona pq nem t
         odo funcionario é gerente
 
+
 */
-
-
+//        Funcionario novoFuncionario = new Funcionario() {}
+//Não se pode criar objetos pelas classes abastratas
 
     }
 }

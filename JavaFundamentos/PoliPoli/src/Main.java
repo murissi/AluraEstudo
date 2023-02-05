@@ -8,6 +8,9 @@ public class Main {
 
         Brinquedo barco = new Barco();
         barco.mover();
+
+        Barco barco1 = new Barco(); // Não é polimorfismo
+        barco1.mover();
     }
 
 }
