@@ -1,11 +1,10 @@
-// Gerente herdando atributos e metodos do Funcionario, assina o contrato autenticavel
-public class Gerente extends Funcionario implements Autenticavel{
+public class Administrador extends Funcionario implements Autenticavel{
 
     private int senha;
 
-
+    @Override
     public double getBonificacao() {
-        return super.getSalario(); // atributo salario pertence a classe mae por isso usamos o super
+        return 50;
     }
 
 
